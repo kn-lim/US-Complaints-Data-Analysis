@@ -1,11 +1,11 @@
-# US Complaints Data Analysis
+# US Consumer Complaints Databse Data Analysis
 This project was made for COGS 108: Data Science in Practice (Winter 2018) and created using Python
 
 ## Team Members
 Alex Zhou, Kevin Lim, Lena Antoine and SooHan Im
 
 ## Data
-The data used for this project was obtained through [data.gov's Consumer Complaint Database](https://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation)
+The data used for this project was obtained through [data.gov's Consumer Complaints Database](https://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation)
 
 ## How to Run
 This project was created in Python using [Jupyter Notebook](https://jupyter.org/).
