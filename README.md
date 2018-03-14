@@ -7,6 +7,17 @@ Alex Zhou, Kevin Lim, Lena Antoine and SooHan Im
 ## Data
 The data used for this project was obtained through [data.gov's Consumer Complaint Database](https://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation)
 
+## How to Run
+This project was created in Python using [Jupyter Notebook](https://jupyter.org/).
+
+Run the commands:
+```
+cd \git repo storage location\
+jupyter notebook
+```
+
+Open FinalProject.ipynb to examine the code.
+
 ## How to Download
 On your Terminal client, run the following command:
 ```
