@@ -9,7 +9,7 @@ From the US Consumer Complaint Database from Septermber 26, 2015, we wanted to s
 
 ## Data
 The data used for this project was obtained through:
-* [data.gov's Consumer Complaints Database](https://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation)
+* [Consumer Complaints Database (2015) from data.gov](https://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation)
 * [List of U.S. States by Income from Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_by_income)
 * [List of U.S. States by Educational Attainment from Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_by_educational_attainment)
 * [List of U.S. States and Territoties by Population from Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population)
